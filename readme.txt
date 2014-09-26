@@ -1,7 +1,7 @@
 === Remove Ozh unobstrusive credits in footer ===
 Tags: ozh,remove,footer,plugin,backend,admin
 Requires at least: 3.5
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: stable
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
