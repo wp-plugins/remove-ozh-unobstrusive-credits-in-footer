@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Remove Ozh unobstrusive credits in footer
  * Description: In case you wish to free space in the admin footer while using ozh admin drop down menu.
- * Version: 1.0
+ * Version: 1.1
  * Author: Polemos
  * License: GPL2
  */
